@@ -1,0 +1,7 @@
+{
+  "name": "learningRXJS",
+  "version": "1.0.0",
+  "dependencies": {
+    "rxjs": "^7.5.4"
+  }
+}
